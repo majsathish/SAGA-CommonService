@@ -1,4 +1,4 @@
-package com.sahtish.CommonService;
+package com.sathish.CommonService.commands;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
